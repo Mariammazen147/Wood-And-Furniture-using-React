@@ -1,0 +1,65 @@
+.reviews-section {
+  padding: 40px 0;
+}
+
+.review-card-light {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.review-card-dark {
+  background-color: #292929;
+  border: 1px solid #464646;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.review-content {
+  flex: 1;
+}
+
+.review-stars {
+  margin: 10px 0;
+}
+
+.review-stars-light i {
+  color: #289e2a;
+  margin-right: 2px;
+}
+
+.review-stars-dark i {
+  color: #208638;
+  margin-right: 2px;
+}
+
+.review-author-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 20px;
+}
+
+.review-author-info {
+  margin-top: 10px;
+}
+
+.review-author-name {
+  font-weight: bold;
+  margin: 0;
+}
+
+.review-author-title {
+  color: #999999;
+  margin: 0;
+}

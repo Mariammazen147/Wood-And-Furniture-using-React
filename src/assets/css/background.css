@@ -1,0 +1,30 @@
+.bg-footer {
+  background-color: #292929;
+  padding: 11px;
+}
+
+.bg-light-green {
+  background-color: #c8fdc9;
+  padding: 12px;
+}
+.bg-light-darkgreen {
+  background-color: #28a745;
+  color: white;
+}
+
+.bg-light-card {
+  background-color: white;
+}
+.bg-dark-card {
+  background-color: #3d3d3d;
+}
+
+.bg-dark-green {
+  background-color: #292929;
+  padding: 12px;
+}
+
+.bg-dark-darkgreen {
+  background-color: #208638;
+  color: white;
+}
